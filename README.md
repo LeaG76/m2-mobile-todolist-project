@@ -26,3 +26,10 @@
         </tr>
     </tbody>
 </table>
+
+<div align="center">
+<img title="Preview 1" src="preview/picture1.png" alt="Preview | 1" width="200px" />
+<img title="Preview 2" src="preview/picture2.png" alt="Preview | 2" width="200px" />
+<img title="Preview 3" src="preview/picture3.png" alt="Preview | 3" width="200px" />
+<img title="Preview 4" src="preview/picture4.png" alt="Preview | 4" width="200px" />
+</div>
